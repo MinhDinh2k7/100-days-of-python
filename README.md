@@ -1,3 +1,9 @@
-Changes from the instructed code in https://www.udemy.com/course/100-days-of-code\n
-+) Day 34: Added function "re_enable" in ui.py to avoid user fast clicking which leads to unwieldy displays.\n
-+) Day 35: Added function "try_request" to Try and retry "update" and "delete" requests if rejected due to not being a sponsor of Pixela\n
+# Changes
+
+Changes from the instructed code in [100 Days of Code](https://www.udemy.com/course/100-days-of-
+code/).
+
+- ** Day 34 :** Added the 're_enable` function in `ui.py` to prevent rapid user clicking, which can lead to
+unwieldy displays.
+- ** Day 35 :** Added the `try_request' function to retry `update' and `delete` requests if rejected
+because the user is not a Pixela sponsor.
