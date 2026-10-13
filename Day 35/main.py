@@ -1,0 +1,4 @@
+
+
+# CONSTANTS
+API_KEY = "673a0fe9cd67e8d1f5f46b38ba0ca781"
