@@ -1,0 +1,45 @@
+{
+    "status": "ok",
+    "totalResults": 248,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "OilPrice.com"
+            },
+            "author": "Michael Kern",
+            "title": "5 Stocks Cashing In as $100 Oil Pushes Drivers Toward Electric",
+            "description": "Gasoline topped $4.40 a gallon in the U.S. in September, and Brent has sat above $100 a barrel since early September, up from around $60 before the Iran war started. Drivers have responded about how you'd expect. New hybrid sales in the U.S. rose 24% through …",
+            "url": "https://oilprice.com/Energy/Energy-General/5-Stocks-Cashing-In-as-100-Oil-Pushes-Drivers-Toward-Electric.html",
+            "urlToImage": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-09_sc2m7zaz06.jpg",
+            "publishedAt": "2026-10-09T20:00:00Z",
+            "content": "Exxon and Suncor say Boulder's…\r\nThe energy crisis revived hydrogen,…\r\nConstellation will invest more than…\r\nSet us as your preferred Google source\r\nBy Michael Kern - Oct 09, 2026, 3:00 PM CDTGasolin… [+8142 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "financialpost.com",
+            "title": "Tesla drops ‘self-driving’ branding to appease Europe regulators",
+            "description": "Tesla Inc. is backing away from its Full Self-Driving branding to help secure approval for the driver-assistance system in Europe, distancing the company from a name that has drawn criticism as dangerously misleading. \n The automaker has begun using the name …",
+            "url": "https://biztoc.com/x/0a4493d27b58bafc",
+            "urlToImage": "https://biztoc.com/cdn/0a4493d27b58bafc_s.webp",
+            "publishedAt": "2026-10-09T19:58:28Z",
+            "content": "Tesla Inc. is backing away from its Full Self-Driving branding to help secure approval for the driver-assistance system in Europe, distancing the company from a name that has drawn criticism as dange… [+146 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "finance.yahoo.com",
+            "title": "Tesla's China Retail Sales Fall 9% Even as Shanghai Exports Surge 58%",
+            "description": "Benzinga and Yahoo Finance LLC may earn commission or revenue on some items through the links below.\nTesla Inc. (NASDAQ:TSLA) sold 9% fewer cars to Chinese customers in September than a year earlier, but a 58% jump in exports helped its Shanghai factory recor…",
+            "url": "https://biztoc.com/x/5b104db15c6a02ac",
+            "urlToImage": "https://biztoc.com/cdn/5b104db15c6a02ac_s.webp",
+            "publishedAt": "2026-10-09T19:29:30Z",
+            "content": "Benzinga and Yahoo Finance LLC may earn commission or revenue on some items through the links below.Tesla Inc. (NASDAQ:TSLA) sold 9% fewer cars to Chinese customers in September than a year earlier, … [+152 chars]"
+        }
+    ]
+}
