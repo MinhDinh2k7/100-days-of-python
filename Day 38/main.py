@@ -60,7 +60,7 @@ for i in result["exercises"]:
         "calories": i["nf_calories"]
     }
     workout_put = {"workout": workout}
-    response = requests.post(SHEETY_URL, headers=headers, json=workout_put, auth=auth)
+    response = requests.post(SHEETY_URL, json=workout_put, auth=auth)
     result = response.json()
     print(response.status_code)
     print(response.text)

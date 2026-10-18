@@ -7,4 +7,5 @@ __pycache__/
 !.env.example
 
 # Python virtual environment
-.venv/
+.venv//flight_cache.sqlite
+/http_cache.sqlite
