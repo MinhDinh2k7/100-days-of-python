@@ -3,7 +3,7 @@ import datetime as dt
 import random
 
 my_email = "minhnguyen2976743@gmail.com"
-password = "jtbbcvedofdncqka"
+password = "PASSWORD_HERE"
 
 now = dt.datetime.now()
 with open("Day 32/birthdays.csv") as file:

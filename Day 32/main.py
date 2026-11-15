@@ -3,13 +3,13 @@ import datetime as dt
 import random
 
 my_email = "minhnguyen2976743@gmail.com"
-password = "jtbbcvedofdncqka"
+password = "PASSWORD_HERE"
 
 now = dt.datetime.now()
 print(now)
 # date_of_birth = dt.datetime(year=2007, month=5, day=18)
 
-if now.weekday() == 2:  # Check if today is Wednesday (0=Monday, 1=Tuesday, 2=Wednesday, etc.)
+if now.weekday() == 4:  # Check if today is Wednesday (0=Monday, 1=Tuesday, 2=Wednesday, etc.)
     with open("Day 32/quotes.txt") as file:
         quotes = file.readlines()
         random_quote = random.choice(quotes)

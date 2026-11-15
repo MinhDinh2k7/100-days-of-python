@@ -9,3 +9,5 @@ __pycache__/
 # Python virtual environment
 .venv//flight_cache.sqlite
 /http_cache.sqlite
+chrome_profile/
+/flight_cache.sqlite
